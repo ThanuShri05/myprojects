@@ -19,7 +19,7 @@ class convert
 	    	  far=((9*cel)/5)+32;
 	    	  System.out.println("Fahrenheit temperature is = "+far);
 		  break;
-	   default:  System.out.println("please choose valid choice");
+	   default:  System.out.println("invalid choice");
 	   }  
 	} 
 }
